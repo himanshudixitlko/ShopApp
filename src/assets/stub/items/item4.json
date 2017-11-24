@@ -1,0 +1,7 @@
+[
+    {"id":"1", "name": "Milk", "category":"Beverages", "price":"$32"},
+    {"id":"2", "name": "Tea", "category":"Beverages", "price":"$12"},
+    {"id":"3", "name": "Coffee", "category":"Beverages", "price":"$50"},
+    {"id":"4", "name": "Juice", "category":"Beverages", "price":"$120"},
+    {"id":"5", "name": "Beer", "category":"Beverages", "price":"$210"}
+]

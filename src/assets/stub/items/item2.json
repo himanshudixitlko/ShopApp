@@ -1,0 +1,7 @@
+[
+    {"id":"1", "name": "Pizza Marinara", "category":"Pasta", "price":"$200"},
+    {"id":"2", "name": "Pizza Margherita", "category":"Pasta", "price":"$190"},
+    {"id":"3", "name": "Neapolitan Pizza", "category":"Pasta", "price":"$420"},
+    {"id":"4", "name": "Sicilian Pizza", "category":"Pasta", "price":"$60"},
+    {"id":"5", "name": "Greek Pizza", "category":"Pasta", "price":"$43"}
+]

@@ -1,0 +1,7 @@
+[
+    {"id":"1", "name": "Cider", "category":"Drinks", "price":"$54"},
+    {"id":"2", "name": "Hard Soda", "category":"Drinks", "price":"$42"},
+    {"id":"3", "name": "Wine", "category":"Drinks", "price":"$100"},
+    {"id":"4", "name": "Barley", "category":"Drinks", "price":"$56"},
+    {"id":"5", "name": "Mixed drink", "category":"Drinks", "price":"$220"}
+]

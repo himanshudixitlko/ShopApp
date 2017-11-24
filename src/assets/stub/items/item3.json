@@ -1,0 +1,7 @@
+[
+    {"id":"1", "name": "Lasagne", "category":"Pasta", "price":"$100"},
+    {"id":"2", "name": "Spaghetti", "category":"Pasta", "price":"$62"},
+    {"id":"3", "name": "Macaroni", "category":"Pasta", "price":"$78"},
+    {"id":"4", "name": "Ravioli", "category":"Pasta", "price":"$123"},
+    {"id":"5", "name": "Linguine", "category":"Pasta", "price":"$256"}
+]

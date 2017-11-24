@@ -1,0 +1,7 @@
+[
+    {"id":"1", "name": "Bacon Blue Cheese Burger", "category":"Burger", "price":"$200"},
+    {"id":"2", "name": "Chipotle Turkey Burgers", "category":"Burger", "price":"$220"},
+    {"id":"3", "name": "Taco Burger", "category":"Burger","price":"$540"},
+    {"id":"4", "name": "Canyon Creek Burger", "category":"Burger","price":"$120"},
+    {"id":"5", "name": "Turkey Burger", "category":"Burger","price":"$50"}
+]

@@ -1,0 +1,7 @@
+[
+    {"id":"1", "name": "Cake", "category":"Dessert", "price":"$514"},
+    {"id":"2", "name": "GingerBread", "category":"Dessert", "price":"$120"},
+    {"id":"3", "name": "Ice-cream", "category":"Dessert", "price":"$54"},
+    {"id":"4", "name": "Molten Chocolate", "category":"Dessert", "price":"$78"},
+    {"id":"5", "name": "Truffle", "category":"Dessert", "price":"$99"}
+]
